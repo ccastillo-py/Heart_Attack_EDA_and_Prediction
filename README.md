@@ -10,7 +10,7 @@ Con el presente proyecto se pretende elaborar el mejor modelo predictivo posible
 - Árboles de Decisión.
 - Máquinas de Soporte de Vectores. 
 
-Adicionalmente se complementa el estudio añadiendo técnicas de Deep Learning a través de la siguiente Red Neuronal:
+Adicionalmente se completa el estudio añadiendo técnicas de Deep Learning a través de la siguiente Red Neuronal:
 - Perceptrón Multicapa
 
 Una vez entrenados, sus métricas son comparadas para determinar con cuál se obtienen los resultados de mayor precisión.
