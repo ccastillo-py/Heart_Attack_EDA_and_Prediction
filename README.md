@@ -8,7 +8,7 @@ Con el presente proyecto se pretende elaborar el mejor modelo predictivo posible
 
 </br>Se desarrollan modelos atendiendo a los algoritmos de Machine Learning indicados a continuación:
 - Árboles de Decisión.
-- Máquinas de Soporte de Vectores. 
+- Máquinas de Vectores de Soporte. 
 
 Adicionalmente se completa el estudio añadiendo técnicas de Deep Learning a través de la siguiente Red Neuronal:
 - Perceptrón Multicapa
